@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#fileInput {
+    display: block;
+    margin: 20px auto;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+}
+
+#outputImage {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
